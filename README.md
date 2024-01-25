@@ -1,5 +1,5 @@
   ![MainHead](https://www.tutorialrepublic.com/lib/images/bootstrap-5.0-illustration.png)
-<h1 align="center">Merhabalar Ben Enes dur</h1>
+<h1 align="center">Merhabalar Ben Enes Dur</h1>
 <h3 align="center">java ve javascript üzerinde çalışmalar yapıyorum. insanlara yararlı olabilecek bütün projelerimi açık kaynaklıdır.github hesabımda kendi kitaplığımı oluşturmak ve yaptığım projeleri yayınlamak amacıyla kullanmaktayım.junior pozisyonda bir geliştiriciyim. projelerim hakkında bana katkıda bulanabilir soru sorabilirsiniz diğer sosyal medya hesaplarımı takip etmek isterseniz link bırakıyorum</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesdurr&label=Profile%20views&color=0e75b6&style=flat" alt="enesdurr" /> </p>
